@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16981" started-at="2018-06-30T16:27:42Z" finished-at="2018-06-30T16:27:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16981" started-at="2018-06-30T16:27:42Z" finished-at="2018-06-30T16:27:59Z">
+      <class name="com.cybertek.AoodenSpoon">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cybertek.AoodenSpoon@6a4f787b]" name="setUp" is-config="true" duration-ms="5758" started-at="2018-06-30T16:27:42Z" finished-at="2018-06-30T16:27:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="findProducts()[pri:0, instance:com.cybertek.AoodenSpoon@6a4f787b]" name="findProducts" duration-ms="11184" started-at="2018-06-30T16:27:48Z" finished-at="2018-06-30T16:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findProducts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cybertek.AoodenSpoon@6a4f787b]" name="tearDown" is-config="true" duration-ms="2" started-at="2018-06-30T16:27:59Z" finished-at="2018-06-30T16:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cybertek.AoodenSpoon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
